@@ -1,6 +1,6 @@
 ### Introduction to Linux
 
-Linux is an open-source operating system. The OS directly manages a system's hardware and resources, sitting between the hardware and application layers.
+Linux is a family of open-source Unix-like operating systems based on the Linux kernel, which was first released by Linus Torvalds in 1991. The term "Linux" can refer to the kernel itself, but more commonly, it refers to the entire operating system that includes the Linux kernel as well as a wide range of software applications and tools.
 
 ### Navigation Commands
 
