@@ -21,4 +21,4 @@ This repository contains a collection of Linux commands and their descriptions t
 
 1. **Clone the Repository**: Clone this repository to your local machine using:
    ```bash
-   git clone https://github.com/yourusername/linux-command-line-reference.git
+   git clone https://github.com/vamsi-KG-dev/linux-command-line-reference.git
