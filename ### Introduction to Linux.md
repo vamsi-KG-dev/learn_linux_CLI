@@ -7,7 +7,7 @@ Linux is an open-source operating system. The OS directly manages a system's har
 #### 1. The `ls` Command
 The `ls` command in Linux is used to list contents in the current directory. It helps with managing and navigating files.
 
-- `ls -l`: Lists contents in long format.
+- `ls -l`: Lists contents in long format.(user name,size of the file,date and time along with filename)
 - `ls -a`: Lists all contents, including hidden files.
 - `ls -lh`: Lists files with sizes in a human-readable format (KB, MB).
 
@@ -143,6 +143,7 @@ The `cp` (copy) command copies files and directories.
 
 #### 4. `mv` Command
 The `mv` (move) command moves files and directories or renames them.
+To move all files(in the same format)in the directory into another sub_dir in it ,then use `mv *jpg(format) dir_name/`
 
 **Usage Examples**
 - `mv file1.txt dir/`: Moves `file1.txt` to `dir`.
